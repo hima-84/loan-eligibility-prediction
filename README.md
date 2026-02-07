@@ -1,8 +1,6 @@
 # Identifying Loan Completion Status
 
-## Project Overview
-
-This project aims to predict the completion status of loans based on a provided dataset. The project involves various steps including data preprocessing, feature selection, model selection, hyper-parameter tuning, and model evaluation.
+### Predicting whether issued loans will be successfully completed using machine learning .
 
 ## Dataset
 
