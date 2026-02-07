@@ -1,9 +1,8 @@
-# Mashinne_learning_Project
-# [ML Fall'23] Identifying Loan Completion Status
+# Identifying Loan Completion Status
 
 ## Project Overview
 
-This project aims to predict the completion status of loans based on a provided dataset. The project is part of the ML Fall'23 course and involves various steps including data preprocessing, feature selection, model selection, hyper-parameter tuning, and model evaluation. Each team member's contribution will be individually assessed during a practical exam.
+This project aims to predict the completion status of loans based on a provided dataset. The project involves various steps including data preprocessing, feature selection, model selection, hyper-parameter tuning, and model evaluation.
 
 ## Dataset
 
